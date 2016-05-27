@@ -1,8 +1,8 @@
 ## HackJam ReactJS
 
-Join [![Gitter](https://badges.gitter.im/hackages/hackjam-react.svg)](https://gitter.im/hackages/hackjam-react?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+Join [![Gitter](https://badges.gitter.im/hackages/hackjam-react.svg)](https://gitter.im/alexlbr/hackjam-react?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Be nice to people, share love(code) here: [Codeshare](https://codeshare.io/SjNAK)
+Be nice to people, share love(code) here: [Codeshare](https://codeshare.io/nxqBd)
 
 ## Goal
 The goal of this exercise is to learn how to think in React. There are thousands of tutorials online but there's no better way to learn than hacking it yourself.
@@ -24,7 +24,7 @@ You don't need to know anything about it unless you're very curious. Just run `n
 
 ## Getting started:
 
-Just clone this [repository](https://github.com/hackages/hackjam-react.git) and run `npm start`
+Just clone this [repository](https://github.com/alexlbr/hackjam-react) and run `npm start`
 
 An example of the application is available [here](http://hackjam.hackages.io/)
 
